@@ -1,0 +1,6 @@
+|-- .gitattributes
+|-- pixegami_hello
+    |-- pixegami_hello
+        |-- main.py
+        |-- __init__.py
+    |-- setup.py
